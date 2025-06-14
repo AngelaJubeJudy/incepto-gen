@@ -1,0 +1,14 @@
+[
+  {
+    "id": "prompt_001",
+    "text": "Generate a minimalist corporate landing page with a contact form.",
+    "category": "business",
+    "tags": ["minimalist", "contact", "landing page"]
+  },
+  {
+    "id": "prompt_002",
+    "text": "Create a vibrant, animated personal portfolio website.",
+    "category": "design",
+    "tags": ["vibrant", "animation", "portfolio"]
+  }
+] 

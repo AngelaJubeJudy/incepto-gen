@@ -1,0 +1,16 @@
+fastmcp
+sentence-transformers
+faiss-cpu
+openai
+anthropic
+google-generativeai
+playwright
+python-dotenv
+configparser
+Pillow
+torch
+torchvision
+beautifulsoup4
+pyyaml
+scipy
+numpy
